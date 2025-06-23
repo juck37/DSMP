@@ -6,6 +6,7 @@ This project applies time-series clustering to analyze chronic absenteeism rates
 - School-level chronic absenteeism rates (%)
 - 17 time points from 2020 to 2025
 - Data collected 3 times per academic year
+- Data source: https://www.mnps.org/about/communications/opendata 
 
 ## Methods
 - Unsupervised learning with TimeSeriesKMeans (DTW)
